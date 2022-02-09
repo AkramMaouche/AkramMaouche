@@ -2,7 +2,7 @@
 - 👀 I’m interested in  Data Analytics 
 - 🌱 I’m currently learning  AI
 - 💞️ I’m looking to collaborate on all the analysis and whi interested in data science and analytics 
-- 📫 How to reach me akram.maouche@gmail.com 
+- 📫 How to reach me akram.maouche07@gmail.com 
 
 <!---
 AkramMaouche/AkramMaouche is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
