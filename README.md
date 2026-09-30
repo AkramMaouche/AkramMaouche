@@ -19,7 +19,7 @@
   <a href="https://github.com/AkramMaouche/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-f43f5e?style=flat-square&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="mailto:mo5rb600@gmail.com">
+  <a href="mailto:akram.maouche07@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
