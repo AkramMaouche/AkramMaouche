@@ -1,11 +1,11 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2E4374&fontSize=52&height=100&text=Akram%20Arilaze%20Maouche&fontAlignY=55" alt="Akram Arilaze" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=0000d8&fontSize=52&height=100&text=Akram%20Arilaze%20Maouche&fontAlignY=55" alt="Akram Arilaze" />
 </p>
 
 <p align="center">
-  <strong>Artificial Intelligence Engineer</strong>
+  <strong font color="#0000d8">Artificial Intelligence Engineer</font></strong>
 </p>
 
 <p align="center">
